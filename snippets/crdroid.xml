@@ -27,7 +27,7 @@
     <linkfile dest="BUILD" src="bazel.BUILD" />
   </project>
 
-  <project path="build/make" name="crdroidandroid/android_build" groups="pdk,sysui-studio" remote="crdroid" >
+  <project path="build/make" name="EAZYBLACK/cr_build" groups="pdk,sysui-studio" remote="crdroid" >
     <linkfile dest="build/CleanSpec.mk" src="CleanSpec.mk" />
     <linkfile dest="build/buildspec.mk.default" src="buildspec.mk.default" />
     <linkfile dest="build/core" src="core" />
